@@ -19,8 +19,6 @@ A simple To-Do List web application built using HTML, CSS, and JavaScript. Users
 3. Click the "Add" button to add the task to the list.
 4. Click on a task to remove it from the list.
 
-## Screenshot
-![To-Do List Screenshot](screenshot.png)
 
 ## Installation
 No installation is required. Simply clone the repository and open `index.html` in a browser.
